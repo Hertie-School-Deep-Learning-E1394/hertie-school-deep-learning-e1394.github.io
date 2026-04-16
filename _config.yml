@@ -5,7 +5,7 @@
 # Do NOT change anything below the "Do not change" line.
 
 # --- Course identity ---
-course_name: "Course Name (Code)"           # e.g. "Deep Learning (GRAD-E1394)"
+course_name: "Deep Learning (GRAD-E1394)"           # e.g. "Deep Learning (GRAD-E1394)"
 course_description: "One paragraph description of the course."
 course_semester: "Fall 2025"                # e.g. "Fall 2025" or "Spring 2026"
 course_code: "GRAD-E1394"                   # Hertie course code
@@ -26,7 +26,7 @@ address: |
 # google_analytics: UA-XXXXXXXX-X
 
 # --- Content repo (where course materials live) ---
-# content_repo: "https://github.com/Hertie-School-Deep-Learning-E1394/content-f2025"
+content_repo: "https://github.com/Hertie-School-Deep-Learning-E1394/content-f2025"
 
 ### Do not change the following unless you know what you are doing ###
 
