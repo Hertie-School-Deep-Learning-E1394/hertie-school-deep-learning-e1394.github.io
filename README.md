@@ -1,6 +1,8 @@
-# Hertie DSL — Course Website Template
+# Hertie DSL — Deep Learning (GRAD-E1394)
 
-A Jekyll template for [Hertie Data Science Lab](https://github.com/hertie-data-science-lab) course websites. Fork of [kazemnejad/jekyll-course-website-template](https://github.com/kazemnejad/jekyll-course-website-template), branded for Hertie School DSL.
+**Course website: [hertie-school-deep-learning-e1394.github.io](https://hertie-school-deep-learning-e1394.github.io)**
+
+A Jekyll-based course website for the Deep Learning course at [Hertie Data Science Lab](https://github.com/hertie-data-science-lab). Built on the DSL course website template, forked from [kazemnejad/jekyll-course-website-template](https://github.com/kazemnejad/jekyll-course-website-template).
 
 ## Quick start (via `roster.py`)
 
@@ -35,7 +37,7 @@ This clones the template, fills in `_config.yml` and `hertie-semester.yml`, and 
 
 ## Branding
 
-Hertie colours are set in `_sass/_user_vars.scss`. 
+Hertie colours are set in `_sass/_user_vars.scss`.
 
 ## Part of
 
