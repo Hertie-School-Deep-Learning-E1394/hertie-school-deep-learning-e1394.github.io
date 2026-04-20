@@ -7,7 +7,7 @@
 # --- Course identity ---
 course_name: "Deep Learning (GRAD-E1394)"           # e.g. "Deep Learning (GRAD-E1394)"
 course_description: "Deep learning is the technology behind facial recognition, machine translation, ChatGPT, and many other applications. Students learn the main theoretical concepts of neural networks and get introduced to applications in computer vision, NLP, and policy-relevant areas."
-course_semester: "Fall 2024"
+course_semester: "Fall 2025"
 course_code: "GRAD-E1394"                   # Hertie course code
 github_org: "Hertie-School-Deep-Learning-E1394"  # GitHub org for this course
 
